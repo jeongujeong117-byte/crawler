@@ -1,0 +1,15 @@
+# Python virtual environments & bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs & temporary checkpoint files
+*.log
+*.json.tmp
+
+# Local browser profiles / OS files
+.browser_profile/
+.DS_Store
+Thumbs.db
